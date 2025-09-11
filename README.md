@@ -83,7 +83,13 @@ Tujuan utamanya adalah:
 - Pastikan akses ke server / hosting aman.  
 
 ---
+## 🌐 Link URL
 
+Aplikasi ini dapat diakses secara langsung melalui link berikut:  
+👉 [SIMLab UMTAS - Live URL](https://simlab.umtas.ac.id/)
+
+
+---
 ## 👥 Kontribusi
 
 Kontribusi sangat dipersilakan! Berikut cara yang bisa kamu bantu:
