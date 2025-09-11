@@ -27,11 +27,11 @@ Tujuan utamanya adalah:
 
 ## 🛠️ Teknologi
 
-- Backend: *sesuaikan* (misalnya Laravel / Node.js)  
-- Frontend: *sesuaikan* (misal React / Vue / Blade templates)  
-- Database: *contoh*: MySQL / PostgreSQL  
-- Selain itu mungkin menggunakan: CSS framework, autentikasi, dll.
-
+- **Backend:** [CodeIgniter 4](https://codeigniter.com/) – framework PHP yang sederhana, cepat, dan memiliki arsitektur MVC sehingga memudahkan dalam pengembangan aplikasi yang terstruktur dan mudah dipelihara.  
+- **Frontend:** View engine bawaan CodeIgniter yang dapat dipadukan dengan CSS framework seperti **Bootstrap** atau **TailwindCSS** untuk membangun antarmuka yang responsif dan user-friendly.  
+- **Database:** **MySQL/MariaDB** (dengan dukungan untuk PostgreSQL) digunakan sebagai sistem manajemen basis data untuk menyimpan dan mengelola informasi laboratorium.  
+- **Dependency Management:** **Composer**, yang memudahkan dalam pengelolaan library eksternal dan mempercepat alur pengembangan.  
+- **Testing:** **PHPUnit** digunakan sebagai kerangka kerja pengujian untuk memastikan stabilitas serta keandalan fitur yang dikembangkan.  
 
 ---
 
